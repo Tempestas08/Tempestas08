@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tempestas08.
-- - 🌱 I’m currently learning the absolute basics haha. HTML and CSS at the moment!
+- 🌱 I’m currently learning the absolute basics haha. HTML and CSS at the moment!
 - 👀 I’m interested in Swift - I mostly use Apple products, and I would love to learn more about building for the devices I use. 
 - 🛜 I'm mostly using Codecademy and Mimo to learn atm.
 - 💞️ Right now, I’m not looking to collaborate on anything - I'm much too inexperienced - but I'd welcome any pointers on how and where to learn new things.
